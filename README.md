@@ -10,3 +10,6 @@
 * Save document.xml and copy back into word\document.xml
 * Rename poc.docx.zip to weaponized.docx
 * Done!!
+
+
+Based on https://blog.cymulate.com/abusing-microsoft-office-online-video
